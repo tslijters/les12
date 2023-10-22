@@ -1,0 +1,44 @@
+header{
+      background-color: #ff0000;
+      width: 100%;
+      height: 300px; 
+}
+
+footer{
+    background-color: #00FF00;
+    width: 100%;
+    height: 300px;
+}
+#cell1{
+    background-color: #00AA00;
+}
+#cell3{
+    background-color: #00BB00;
+}
+#cell5{
+    background-color: #00c2cc;
+}
+#cell7{
+    background-color: #005baa75;
+}
+#cell9{
+    background-color: #0017aa76;
+}
+#cell11{
+    background-color: #aa004d;
+}
+#cell13{
+    background-color: #3300aa;
+}
+#cell15{
+    background-color: #63aa006d;
+}
+#tabel{
+    border-style: ridge;
+    border-width: 0.2cm;
+    border-radius: 0.2cm;
+    border-top-right-radius: 0.2cm;
+    border-bottom-left-radius: 0.2cm;
+    border-bottom-right-radius: 0.2cm;
+}
+
